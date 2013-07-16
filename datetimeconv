@@ -1,0 +1,1 @@
+db.badges.find().forEach(function(doc){doc.date = new Date(doc.date);db.badges.save(doc)});

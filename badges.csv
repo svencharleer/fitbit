@@ -1,0 +1,15 @@
+date,image,value,timesAchieved,badgeType
+1/5/2013,http://www.fitbit.com/images/dash/75px/badge_lifetime_kilometers50.png,50,1,LIFETIME_DISTANCE
+2/20/2013,http://www.fitbit.com/images/dash/75px/badge_lifetime_kilometers250.png,250,1,LIFETIME_DISTANCE
+7/3/2013,http://www.fitbit.com/images/dash/75px/badge_lifetime_kilometers500.png,500,1,LIFETIME_DISTANCE
+7/15/2013,http://www.fitbit.com/images/dash/75px/badge_daily_steps5k.png,5000,78,DAILY_STEPS
+7/14/2013,http://www.fitbit.com/images/dash/75px/badge_daily_steps10k.png,10000,15,DAILY_STEPS
+7/13/2013,http://www.fitbit.com/images/dash/75px/badge_daily_steps15k.png,15000,3,DAILY_STEPS
+1/2/2013,http://www.fitbit.com/images/dash/75px/badge_daily_steps20k.png,20000,1,DAILY_STEPS
+7/15/2013,http://www.fitbit.com/images/dash/75px/badge_daily_floors10.png,10,102,DAILY_FLOORS
+7/15/2013,http://www.fitbit.com/images/dash/75px/badge_daily_floors25.png,25,44,DAILY_FLOORS
+4/15/2013,http://www.fitbit.com/images/dash/75px/badge_daily_floors50.png,50,2,DAILY_FLOORS
+4/15/2013,http://www.fitbit.com/images/dash/75px/badge_daily_floors75.png,75,1,DAILY_FLOORS
+1/22/2013,http://www.fitbit.com/images/dash/75px/badge_lifetime_floors500.png,500,1,LIFETIME_FLOORS
+2/14/2013,http://www.fitbit.com/images/dash/75px/badge_lifetime_floors1k.png,1000,1,LIFETIME_FLOORS
+6/19/2013,http://www.fitbit.com/images/dash/75px/badge_lifetime_floors2k.png,2000,1,LIFETIME_FLOORS
